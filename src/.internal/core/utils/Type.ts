@@ -62,9 +62,9 @@ export type Type
  * Returns a type of the value.
  *
  * @param  {any}   value  Input value
- * @return {Type}         Type of the value
+ * @return {string}       Type of the value
  */
-export function getType<A>(value: A): Type {
+export function getType<A>(value: A): string {
 	return ({}).toString.call(value);
 }
 
