@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "amcharts4-typescript-example-fast",
+  "version": "0.1.0",
+  "devDependencies": {
+    "typescript": "^3.0.0",
+    "tslib": "^1.9.3",
+    "css-element-queries": "^1.0.5",
+    "canvg": "^1.5.3",
+    "pdfmake": "^0.1.36",
+    "xlsx": "^0.12.8"
+  },
+  "scripts": {
+    "build": "tsc --project tsconfig.json"
+  }
+}
