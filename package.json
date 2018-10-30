@@ -3,7 +3,7 @@
   "name": "amcharts4-typescript-example-fast",
   "version": "0.1.0",
   "devDependencies": {
-    "typescript": "^3.0.0",
+    "typescript": "next",
     "tslib": "^1.9.3",
     "css-element-queries": "^1.0.5",
     "canvg": "^1.5.3",

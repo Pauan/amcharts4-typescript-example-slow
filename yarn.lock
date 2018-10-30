@@ -843,9 +843,9 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
-typescript@^3.0.0:
-  version "3.1.4"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.1.4.tgz#c74ef7b3c2da65beff548b903022cb8c3cd997ed"
+typescript@next:
+  version "3.2.0-dev.20181030"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.2.0-dev.20181030.tgz#a80e3377101224aad5e1e3a341f320b5a9b9b1ef"
 
 unicode-properties@^1.0.0:
   version "1.1.0"
